@@ -1,2 +1,2 @@
 "I'm a programmer!"
-"Test change on git commit."
+"Test change on adding only "git commit"."
